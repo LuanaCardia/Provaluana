@@ -1,0 +1,54 @@
+#nome{ 
+    text-align: center;
+    background: #eb8bc35d;
+}
+body{
+   background: url();
+    
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #f093e3;
+}
+
+h2{
+color: #e487cd;
+}
+
+#lua{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+#h2{ text-align: center;}
+#ex{ 
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(241, 160, 214);
+    margin: 10px;
+
+}
+
+#gwen{
+    position: absolute;
+    top: 200px; 
+    left: 600px; 
+    width: 600px;
+    height: 500px;
+  }
+   
+  #teia{
+    position: relative;
+    top: -103px; 
+    left: 205px; 
+    width: 600px;
+    height: 500px;
+    
+transform: rotate(27deg);
+      }
+  
+      
+      
+  
